@@ -4,9 +4,6 @@ SEO Content Optimizer (Lite)
 
 _A lightweight SEO content analysis tool_
 
-## 🖼️ Image Title
-**SEO Content Optimizer – Content Analysis Overview**
-
 ## ⚠️ Usage Notice
 
 This repository is public for visibility and reference only.
