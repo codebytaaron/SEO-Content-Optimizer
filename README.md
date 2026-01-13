@@ -1,22 +1,21 @@
-<!-- HERO -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:020617,100:0f172a&text=SEO%20Content%20Optimizer%20(Lite)&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=42&desc=Instant%20SEO%20and%20readability%20feedback&descAlign=50&descAlignY=66"
-    alt="SEO Content Optimizer"
-  />
-</p>
+# SEO Content Optimizer
 
-<!-- SINGLE MOVING IMAGE -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=820&lines=Analyze+content+for+SEO+and+readability.;Clear+rules.+No+black+box+scores.;Fast%2C+explainable%2C+and+easy+to+extend."
-    alt="Typing animation"
-  />
-</p>
+SEO Content Optimizer (Lite)
 
-# SEO Content Optimizer (Lite)
+_A lightweight SEO content analysis tool_
 
-A lightweight SEO content analysis tool that provides instant, actionable feedback on written content.
+## 🖼️ Image Title
+**SEO Content Optimizer – Content Analysis Overview**
+
+## ⚠️ Usage Notice
+
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, deploy, or redistribute this project without contacting me first**.
+
+If you are interested in using this project, integrating it into a product, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
+
+---
 
 ## What this is
 
@@ -42,10 +41,10 @@ Built to be fast, explainable, and easy to understand.
 
 ## How it works
 
-1. User pastes content and optional SEO fields  
-2. Frontend sends data to the Flask API  
-3. Backend analyzes text using rule-based logic  
-4. Results and suggestions are returned instantly  
+- User pastes content and optional SEO fields  
+- Frontend sends data to the Flask API  
+- Backend analyzes text using rule-based logic  
+- Results and suggestions are returned instantly  
 
 ## Design goals
 
@@ -64,3 +63,13 @@ Possible future improvements include scoring, keyword placement checks, file upl
 ## Access
 
 For questions or walkthroughs, use the link in my bio.
+
+## About
+
+A lightweight SEO content analysis tool that gives instant, actionable feedback on written content.
+
+## Topics
+
+python  
+ai  
+seo  
